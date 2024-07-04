@@ -1,6 +1,6 @@
 ## Hi, I'm [Aditya Sharma](https://adityasharma.co) &nbsp; <img src="assets/hi.gif" width="24px" height="24px" /> 
 
-![](https://komarev.com/ghpvc/?username=BetaPundit)
+![](https://komarev.com/ghpvc/?username=adityasharma-tech)
 
 ### About Me:
 
