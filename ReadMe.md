@@ -2,7 +2,7 @@
 
 ### About Me:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2358A6FF&vCenter=true&lines=I+am+a+android+developer.;I+am+a+web+developer.;I+am+a+iOS+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2358A6FF&vCenter=true&lines=I+am+an+android+developer.;I+am+a+web+developer.;I+am+an+iOS+developer.)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on [Portfolio](https://adityasharma.live)
 - 👯 I’m open to collaborate.
