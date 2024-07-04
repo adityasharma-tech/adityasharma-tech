@@ -1,7 +1,5 @@
 ## Hi, I'm [Aditya Sharma](https://adityasharma.co) &nbsp; <img src="assets/hi.gif" width="24px" height="24px" /> 
 
-![](https://komarev.com/ghpvc/?username=adityasharma-tech)
-
 ### About Me:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2358A6FF&vCenter=true&lines=I+am+a+android+developer.;I+am+a+web+developer.;I+am+a+iOS+developer.)](https://git.io/typing-svg)
