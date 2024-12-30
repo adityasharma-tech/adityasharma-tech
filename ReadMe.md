@@ -1,4 +1,4 @@
-## Hi, I'm [Aditya Sharma](https://adityasharma.co) &nbsp; <img src="assets/hi.gif" width="24px" height="24px" /> 
+## Hi, I'm [Aditya Sharma](https://adityasharma.live) &nbsp; <img src="assets/hi.gif" width="24px" height="24px" /> 
 
 ### About Me:
 
