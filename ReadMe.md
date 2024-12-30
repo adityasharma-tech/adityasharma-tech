@@ -21,8 +21,6 @@
 
 ### Skills and Tools: &nbsp; <img alt="Aditya's skills" width="26px" height="26px" src="assets/skills.gif" /> 
 <p float="left">
-  <img height="28" src="assets/flutter.svg"> &nbsp;
-  <img height="28" src="assets/dart.svg"> &nbsp;
   <img height="28" src="assets/python.svg"> &nbsp;
   <img height="28" src="assets/html.svg"> &nbsp;
   <img height="28" src="assets/css.svg"> &nbsp;
