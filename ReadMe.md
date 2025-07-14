@@ -8,6 +8,16 @@ Developer building hybrid apps & web platforms with React + Node.js | On a missi
 <p>Languages</p>
   <!-- Languages -->
 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2358A6FF&vCenter=true&lines=I+am+an+hybrid+app+developer.;I+am+a+web+developer.;)](https://git.io/typing-svg)
+
+- 🔭 Checkout one of my best backend project [Synapse](https://github.com/adityasharma-tech/Synapse.git)
+- 🎯 And the best hybrid android/ios app I build is a full Chat Application is [QuickChat](https://github.com/adityasharma-tech/QuickChat-Application.git)
+- 👯 I’m open to collaborate.
+- 📫 How to reach me: [hey@adityasharma.live](mailto:hey@adityasharma.live), [LinkedIn](https://linkedin.com/in/adityasharmatech)
+- 😎 Here's my portfolio [adityasharma.live](https://www.adityasharma.live/) 
+- ⚡ I love ironman.
+
+
 <div>
 <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
