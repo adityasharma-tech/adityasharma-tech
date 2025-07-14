@@ -1,11 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> 
-Developer building hybrid apps & web platforms with React + Node.js | On a mission to merge software with hardware through real-world innovation
 </p>
-<h3>Things I code with</h3>
-<p style="display: flex">
-<p>Languages</p>
+
   <!-- Languages -->
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2358A6FF&vCenter=true&lines=I+am+an+hybrid+app+developer.;I+am+a+web+developer.;)](https://git.io/typing-svg)
@@ -17,6 +14,10 @@ Developer building hybrid apps & web platforms with React + Node.js | On a missi
 - 😎 Here's my portfolio [adityasharma.live](https://www.adityasharma.live/) 
 - ⚡ I love ironman.
 
+
+<h3>Things I code with</h3>
+<p style="display: flex">
+<p>Languages</p>
 
 <div>
 <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
